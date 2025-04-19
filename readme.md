@@ -1,4 +1,4 @@
-#learn about git hub
+# learn about git hub
 
 subscribe to me on youtube 
 ```javascript
